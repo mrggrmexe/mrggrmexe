@@ -1,6 +1,7 @@
 # Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrggrmexe&layout=donut&theme=tokyonight)
+![Top Langs by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrggrmexe&theme=github_dark)
+
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mrggrm&theme=github_dark)](https://codeforces.com/profile/mrggrm)
 
 
